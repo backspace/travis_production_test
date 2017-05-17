@@ -29,45 +29,45 @@ env:
 language: generic
 jobs:
   include:
-    - stage: 1
+    - stage: "1"
       script: sh -c true
-    - stage: 2
+    - stage: "2"
       script: sh -c true
-    - stage: 3
+    - stage: "3"
       script: sh -c true
-    - stage: 4
+    - stage: "4"
       script: sh -c true
-    - stage: 5
+    - stage: "5"
       script: sh -c true
-    - stage: 6
+    - stage: "6"
       script: sh -c true
-    - stage: 7
+    - stage: "7"
       script: sh -c true
-    - stage: 8
+    - stage: "8"
       script: sh -c true
-    - stage: 9
+    - stage: "9"
       script: sh -c true
-    - stage: 10
+    - stage: "10"
       script: sh -c true
-    - stage: 11
+    - stage: "11"
       script: sh -c true
-    - stage: 12
+    - stage: "12"
       script: sh -c true
-    - stage: 13
+    - stage: "13"
       script: sh -c true
-    - stage: 14
+    - stage: "14"
       script: sh -c true
-    - stage: 15
+    - stage: "15"
       script: sh -c true
-    - stage: 16
+    - stage: "16"
       script: sh -c true
-    - stage: 17
+    - stage: "17"
       script: sh -c true
-    - stage: 18
+    - stage: "18"
       script: sh -c true
-    - stage: 19
+    - stage: "19"
       script: sh -c true
-    - stage: 20
+    - stage: "20"
       script: sh -c true
 
 install:
